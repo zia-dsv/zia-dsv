@@ -1,29 +1,39 @@
-# 👋 Hi, I'm Zia Ur Rehman
+# 👋 Hey there, I’m Zia
 
-**Software Developer | Backend & Frontend | AWS Learner | Ex-Northvolt**
+**Full-Stack Developer | React · Node.js · Python | Cloud Curious | Dev Who’s Seen the Factory Floor**
 
-I’m a developer with hands-on experience in building full-stack applications and supporting real-time production environments. My background spans both web development and manufacturing support—giving me a unique perspective on how digital systems and physical processes intersect.
-
-🔧 **Currently working with:**
-- React · Next.js · TypeScript · Node.js · Python  
-- PostgreSQL · MongoDB · Docker · GitHub Actions · AWS (EC2, S3, Lambda)
-
-🧠 **Currently learning:**  
-- AWS Cloud (Solutions Architect track)  
-- Scalable architecture design  
-- Deeper frontend UX with Tailwind and animation frameworks
-
-⚡ **Previously at Northvolt**  
-Led cross-functional coordination between automation, engineering, and operations to keep battery production running smoothly. While I wasn’t coding daily, I solved complex machine/system issues, documented processes, and learned more about MES/PLC systems than many of the specialized teams I supported.
-
-🌱 **Developer Goals**  
-Build tools that are useful, efficient, and human-focused. Explore edge cases where software meets real-world systems. Contribute to open source and deploy full-stack projects with cloud integration.
-
-📫 **Connect with me**
-- Portfolio: [byzia.dev](https://www.byzia.dev/)
-- LinkedIn: [linkedin.com/in/zia-rehman-](https://www.linkedin.com/in/zia-rehman-/)
-- GitHub: [github.com/zia-dsv](https://github.com/zia-dsv)
+I’m focused on building full-stack applications using modern frameworks like **React**, **Next.js**, and **Node.js**, with a growing focus on **AWS cloud architecture** and automation. My approach is practical: solve real problems, write maintainable code, and always keep the user in mind.
 
 ---
 
-> “Simple, clear purpose and clean execution over everything else.”
+### 🛠 Tech I Work With
+
+**Languages & Frameworks:**  
+JavaScript · TypeScript · Node.js · React · Next.js · Python · Express.js
+
+**Dev Tools & Cloud:**  
+Docker · GitHub Actions · AWS (EC2, Lambda, S3) · PostgreSQL · MongoDB · Linux · CI/CD pipelines
+
+**Also interested in:**  
+Serverless systems · DevOps workflows · Security fundamentals · Scalable architecture
+
+---
+
+### 🌱 What I’m Up To Now
+
+- Building new projects on [byzia.dev](https://www.byzia.dev/)
+- Exploring AWS certification (Solutions Architect track)
+- Sharpening frontend UX with Tailwind and Framer Motion
+- Documenting what I learn via GitHub & side projects
+
+---
+
+### 🤝 Let’s Connect
+
+- 🌍 [Portfolio](https://www.byzia.dev)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/zia-rehman-/)  
+- 💬 Always open to collaboration, code critique, or new ideas
+
+---
+
+> "Building what I wish I had."
